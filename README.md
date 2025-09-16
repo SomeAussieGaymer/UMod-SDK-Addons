@@ -18,8 +18,8 @@ This repo includes both official and community addons.
 - **Hierarchy**  
   Streamline your hierarchy with icons, colours, scene switching, bookmarks, component minimaps, activation toggles, and handy shortcuts.  
 
--**MaterialSwapper**
-Material Swapper Instantly swap materials with Alt+click workflow: project-wide material browsing, alphabetical/recent sorting, search filtering, and seamless Inspector integration.
+- **MaterialSwapper**
+  Instantly swap materials with Alt+click workflow: project-wide material browsing, alphabetical/recent sorting, search filtering, and seamless Inspector integration.
 
 ---
 
