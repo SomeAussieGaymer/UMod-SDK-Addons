@@ -18,6 +18,9 @@ This repo includes both official and community addons.
 - **Hierarchy**  
   Streamline your hierarchy with icons, colours, scene switching, bookmarks, component minimaps, activation toggles, and handy shortcuts.  
 
+-**MaterialSwapper**
+Material Swapper Instantly swap materials with Alt+click workflow: project-wide material browsing, alphabetical/recent sorting, search filtering, and seamless Inspector integration.
+
 ---
 
 > Currently these folders contain test files only. The full addons will be released with the SDK V2 update.
